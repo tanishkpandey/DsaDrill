@@ -21,4 +21,4 @@ if(sum>9){
    cout<<"The sum to single Digit is: "<<sum;
 }
     return 0;
-}
+}   
