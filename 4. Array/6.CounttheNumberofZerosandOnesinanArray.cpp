@@ -14,5 +14,12 @@ public:
         }
 
         return {zeros, ones};
+        // return pair;
+
+        // pari<int, int> ans;
+        // ans.first = zeros;
+        // ans.second = ones;
+        // return ans;
+        
     }
 };
